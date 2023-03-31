@@ -2,7 +2,7 @@
 
 suvey end date | - | - | -
 :---: | :---: | :---: | :---:
-2020-10-22 | [view map](https://aubreymoore.github.io/new-crb-damage-map) | [view repo](https://github.com/aubreymoore/new-crb-damage-map) | download database
+2020-10-22 | [view map](https://aubreymoore.github.io/new-crb-damage-map) | [view repo](https://github.com/aubreymoore/new-crb-damage-map) | [download](https://github.com/aubreymoore/new-crb-damage-map/raw/main/original-map/Guam01.db) database
 2020-12-24 | [view map](https://aubreymoore.github.io/Guam-CRB-damage-map-2020-12/webmap/v1) | view repo | download database
 2021-03-18 | [view map](https://aubreymoore.github.io/Guam-CRB-Damage-Map-2021-03) | view repo | download database
 2021-05-20 | [view map](https://aubreymoore.github.io/Guam-CRB-Damage-Map-2021-05/webmap) | view repo | download database
