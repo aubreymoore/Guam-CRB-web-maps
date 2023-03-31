@@ -1,8 +1,8 @@
 # Guam-CRB-web-maps
 
-suvey end date | map   | database
+suvey end date |       | 
 :------------: | :---: | :-------:
-2020-10-22 | [view](https://aubreymoore.github.io/new-crb-damage-map) | download
+2020-10-22 | [view map](https://aubreymoore.github.io/new-crb-damage-map) | download
 2020-12-24 | [view](https://aubreymoore.github.io/Guam-CRB-damage-map-2020-12/webmap/v1) | download
 2021-03-18 | [view](https://aubreymoore.github.io/Guam-CRB-Damage-Map-2021-03) | download
 2021-05-20 | [view](https://aubreymoore.github.io/Guam-CRB-Damage-Map-2021-05/webmap) | download
