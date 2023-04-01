@@ -12,4 +12,5 @@ suvey end date | - | - | -
 
 ![plot](timeline-plot/timeline.png)
 
+![plot](timeline-plot/timeline.html)
 
