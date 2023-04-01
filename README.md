@@ -10,5 +10,5 @@ suvey end date | - | - | -
 2022-02-23 | [view map](https://aubreymoore.github.io/Guam-CRB-Damage-Map-2022-02/webmap/#11/13.4483/144.7860) | [view repo](https://github.com/aubreymoore/Guam-CRB-Damage-Map-2022-02) | [download database](https://github.com/aubreymoore/Guam-CRB-Damage-Map-2022-02/raw/main/Guam-CRB-Damage-Map-2022-02.db)
 2022-11-28 | [view map](https://aubreymoore.github.io/Guam-CRB-Damage-Map-2022-11/webmap/#11/13.4483/144.7860) | [view repo](https://github.com/aubreymoore/Guam-CRB-Damage-Map-2022-11) | [download database](https://github.com/aubreymoore/Guam-CRB-Damage-Map-2022-11/raw/main/output/Guam07.db)
 
-![](time-line-plot/time-line.html)
+![x](time-line-plot/time-line.html)
 
