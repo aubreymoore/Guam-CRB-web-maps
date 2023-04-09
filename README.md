@@ -13,5 +13,3 @@ suvey end date | - | - | -
 
 ![plot](timeline-plot/timeline.png)
 
-![plotassa](timeline-plot/asasastimeline.html)
-
