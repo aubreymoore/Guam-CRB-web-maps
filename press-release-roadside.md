@@ -8,7 +8,7 @@ comment: convert to pdf using pandoc press-release-roadside.md -o press-release-
 
 # PRESS RELEASE
 
-Prepared by Aubrey Moore, May 23, 2021
+Prepared by Aubrey Moore, April 20, 2023
 
 ## Island-wide roadside image surveys indicate that one in five coconut palms on Guam are damaged by coconut rhinoceros beetles (CRB). 
 
